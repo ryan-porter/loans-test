@@ -1,3 +1,8 @@
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/ryan-porter/loans-test)
+
+
+
+
 # Node.js Starter Overview
 
 The Node.js Starter demonstrates a simple, reusable Node.js web application based on the Express framework.
